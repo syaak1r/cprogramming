@@ -13,5 +13,6 @@
 int main (void)
 {
   printf ("Hello, world!\n");
+  printf ("Hi my name is Syaakir...:)");
   return 0;
 }
